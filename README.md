@@ -1,5 +1,7 @@
 # Born2beRoot
 
+!!! DISCLAIMER: This document is not a step by step guide. It summarizes the knowledge that I have acquired while doing this project. I encourage you to do your own tests and research before submitting your project, as it is the best way to learn. The content may be in English or Spanish, however, I suggest you to read it to get a better understanding of this project. Feel free to do pull request to improve the contents !!!
+
 ## RESUMEN
 
 Esta práctica es una introducción a la administración de sistemas. En esta prática se han interiorizado los principios de:
